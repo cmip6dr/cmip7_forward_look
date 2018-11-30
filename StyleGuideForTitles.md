@@ -39,16 +39,13 @@ The following terms are always used as adjectives, and so consistently hyphenate
 "clear-sky", "land-use", "land-cover", "all-sky", "above-ground", "below-ground"
 
 Others may be used either with or without:
-"sea-surface", "cloud-top", "Grid-cell" 
+"sea-surface", "cloud-top", "Grid-cell", "sea-ice", "land-ice"
 
 Some terms are intrinsically hyphenated:
 '2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Re-freezing', 'Run-off',  'Snow-to-Ice', 'Vegetation-Covered', 'X-component', 'Y-component', , 'non-living', 'non-renewable'
 
 Denoting interfaces (alternative usages probably preferred):
 'air-sea', 'ice-ocean', 'snow-ice'
-
-Variable usage
-"sea-ice", "land-ice"(?), "sea-surface"
 
 # 4. Issues
 
