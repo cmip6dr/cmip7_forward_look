@@ -11,6 +11,8 @@ The long names should be capitalised as titles, following "standard" practise.
     
 See [this](https://english.stackexchange.com/questions/14/which-words-in-a-title-should-be-capitalized ) for more discussion. Note that some words, such as "as", "that" can take different roles depending on the structure of the sentence so it is not possible to automate everything easily. But, in the context of CMIP variables, there is a limited range of usages.
 
+The words "neither", "either" are conjunctions when used together with "nor", "or", but otherwise an adjective, pronoun or adverb.
+
 In CMIP6, the following words are kept in lower case:
 1. a
 2. as at by in nm of on or to
