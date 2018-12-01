@@ -11,7 +11,7 @@ The long names should be capitalised as titles, following "standard" practise.
     
 See [this](https://english.stackexchange.com/questions/14/which-words-in-a-title-should-be-capitalized ) for more discussion. Note that some words, such as "as", "that" can take different roles depending on the structure of the sentence so it is not possible to automate everything easily. But, in the context of CMIP variables, there is a limited range of usages.
 
-The words "neither", "either" are conjunctions when used together with "nor", "or", but otherwise an adjective, pronoun or adverb.
+The words "neither", "either" are conjunctions when used together with "nor", "or", but otherwise an adjective, pronoun or adverb (e.g. "Neither of the proposals is acceptable"). The usage in CMIP6 is always as a conjuunction.
 
 In CMIP6, the following words are kept in lower case:
 1. a
@@ -55,5 +55,9 @@ Denoting interfaces (alternative usages probably preferred):
 - as, that: potential for different capitalization in some grammatical constructions;
 
 There should be no full-stop.
+
+## Oxygen and Carbon Isotopes
+
+Currently using Oxygen-17, Oxygen-18, 13Carbon, 14Carbon: should harmonise this.
 
 
