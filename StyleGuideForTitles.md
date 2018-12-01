@@ -60,4 +60,6 @@ There should be no full-stop.
 
 Currently using Oxygen-17, Oxygen-18, 13Carbon, 14Carbon: should harmonise this.
 
+## Hyphens
 
+Rules on capitalisation of hyphenated words a little unclear .....
