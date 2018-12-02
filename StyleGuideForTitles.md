@@ -63,3 +63,7 @@ Currently using Oxygen-17, Oxygen-18, 13Carbon, 14Carbon: should harmonise this.
 ## Hyphens
 
 Rules on capitalisation of hyphenated words a little unclear .....
+
+## Numbers and Units
+
+A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi.
