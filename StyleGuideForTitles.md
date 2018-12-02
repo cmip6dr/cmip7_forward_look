@@ -26,9 +26,9 @@ In CMIP6, the following words are kept in lower case:
 Abbreviations and technical terms may have their own capitalisation rules. The following keep the case as shown in titles:
 1. X Y T D
 2. 1H 1m 2H 2m 3D C3 C4 CO H2 N2 NO O2 O3 OD OH Ox XY pH
-3. 10m 13C 14C CH4 CO2 CWD DMS HCl HO2 N2O NH3 NH4 NHx NO2 NO3 NOx NOy NPP O1d PAN PBL PO2 SF6 SO2 SO4 TEM TOA hPa
-4. 100m 300m 700m C2H2 C2H6 C3H6 C3H8 CFAD MISR PCO2 PM10
-5. 10hPa 13CO2 14CO2 2000m 4XCO2 550nm CFC11 CFC12 ISCCP MODIS NMVOC PM1.0 PM2.5 UGRID
+3. 13C 14C CH4 CO2 CWD DMS HCl HO2 N2O NH3 NH4 NHx NO2 NO3 NOx NOy NPP O1d PAN PBL PO2 SF6 SO2 SO4 TEM TOA hPa
+4. C2H2 C2H6 C3H6 C3H8 CFAD MISR PCO2 PM10
+5. 13CO2 14CO2 4XCO2 CFC11 CFC12 ISCCP MODIS NMVOC PM1.0 PM2.5 UGRID
 6. CFC113 HCFC22
 7. CALIPSO PARASOL 2D-field
 8. 13Carbon 14Carbon
@@ -62,8 +62,10 @@ Currently using Oxygen-17, Oxygen-18, 13Carbon, 14Carbon: should harmonise this.
 
 ## Hyphens
 
-Rules on capitalisation of hyphenated words a little unclear .....
+Rules on capitalizing are a little unclear, but several sources recommend capitalising both words if the 2nd is a noun or adjective (e.g. [here](https://english.stackexchange.com/questions/460/do-you-capitalize-both-parts-of-a-hyphenated-word-in-a-title) and [here](https://www.businesswritingblog.com/business_writing/2010/08/capitalizing-hyphenated-words-in-titles-.html)). Following this rule, all the CMIP6 hyphenated phrases have both components hyphenated except "Run-off" and "Snow-to-Ice". 
 
 ## Numbers and Units
 
-A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi.
+10m 100m 300m 700m 2000m 10hPa 550nm and others ...
+
+A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach.
