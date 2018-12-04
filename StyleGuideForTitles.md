@@ -15,23 +15,13 @@ The words "neither", "either" are conjunctions when used together with "nor", "o
 
 In CMIP6, the following words are kept in lower case:
 1. a
-2. as at by in nm of on or to
+2. as at by in of on or to
 3. and any but for non nor not out per the
 4. into onto over than with
 
-("nm" represents the units "micro-metres").
-
 # 2. Special words
 
-Abbreviations and technical terms may have their own capitalisation rules. The following keep the case as shown in titles:
-1. X Y T D
-2. 1H 1m 2H 2m 3D C3 C4 CO H2 N2 NO O2 O3 OD OH Ox XY pH
-3. 13C 14C CH4 CO2 CWD DMS HCl HO2 N2O NH3 NH4 NHx NO2 NO3 NOx NOy NPP O1d PAN PBL PO2 SF6 SO2 SO4 TEM TOA hPa
-4. C2H2 C2H6 C3H6 C3H8 CFAD MISR PCO2 PM10
-5. 13CO2 14CO2 4XCO2 CFC11 CFC12 ISCCP MODIS NMVOC PM1.0 PM2.5 UGRID
-6. CFC113 HCFC22
-7. CALIPSO PARASOL 2D-field
-8. 13Carbon 14Carbon
+Abbreviations and technical terms may have their own capitalisation rules. Exceptions are listed in Annex 1
 
 # 3. Hyphens
 
@@ -44,10 +34,10 @@ Others may be used either with or without:
 "sea-surface", "cloud-top", "Grid-cell", "sea-ice", "land-ice"
 
 Some terms are intrinsically hyphenated:
-'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Re-freezing', 'Run-off',  'Snow-to-Ice', 'Vegetation-Covered', 'X-component', 'Y-component', , 'non-living', 'non-renewable'
+'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Snow-to-Ice', 'Vegetation-Covered', 'X-component', 'Y-component', 'non-living', 'non-renewable'
 
-Denoting interfaces (alternative usages probably preferred):
-'air-sea', 'ice-ocean', 'snow-ice'
+Denoting interfaces:
+'ice-ocean', 'snow-ice'
 
 # 4. Issues
 
@@ -66,9 +56,9 @@ Rules on capitalizing are a little unclear, but several sources recommend capita
 
 ## Numbers and Units
 
-10m 100m 300m 700m 2000m 10hPa 550nm and others ...
+100m 10hPa 10m 1m 2000m 2m 300m 550nm 700m 865nm ... and others.
 
-A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach. Still leave a space if a unit is spelled out, as in "10 day".
+A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach. Still leave a space if a unit is spelled out, as in "50 day".
 
 # Annex 1: word lists
 
@@ -76,10 +66,26 @@ The python package autocorrect is used, which has a list in autocorrect.word.KNO
 
 ## Names etc
 
-100m 10hPa 10m 13C 13CO2 14C 14CO2 17O 18O 1H 1m 2000m 2H 2m 300m 4XCO2 50 550nm 700m C2H2 C2H6 C3 C3H6 C3H8 C4 CALIPSO CFAD CFC11 CFC113 CFC12 CH3COCH3 CH4 CO CO2 CWD  D: DMS H2 HCFC22 HCl HNO3 HO2 N2 N2O NH3 NH4 NHx NMVOC NO NO2 NO3 NOx NOy NPP O O1d O2 O3 OH Ox PAN PBL PCO2 PM1.0 PM10 PM2.5 PO2 SF6 SO2 SO4 T TEM TOA UGRID X XY Y pH
+13C 13CO2 14C 14CO2 17O 18O 1H 2H C2H2 C2H6 C3 C3H6 C3H8 C4 CFC11 CFC113 CFC12 CH3COCH3 CH4 CO CO2 D H2 HCFC22 HCl HNO3 HO2 N2 N2O NH3 NH4 NHx NO NO2 NO3 NOx NOy O O1D O2 O3 OH Ox SF6 SO2 SO4 T UGRID X XY Y
+
+### Substances, named diagnostics and places
+
+- 4XCO2 
+- CWD
+- DMS
+- NMVOC
+- NPP
+- PAM
+- PBL
+- pH
+- PM1.0, PM2.5, PM10
+- TEM
+- TOA
 
 ### Instruments
 
+- CALIPSO 
+- CFAD 
 - CloudSat
 - ISCCP
 - MISR
