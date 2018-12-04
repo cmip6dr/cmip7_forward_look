@@ -40,7 +40,7 @@ Denoting interfaces:
 'ice-ocean', 'snow-ice'
 
 Other hyphenated terms:
-'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Snow-to-Ice', 'X-component', 'Y-component', 'non-living', 'non-renewable', 'carbon-13', 'carbon-14'
+'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Snow-to-Ice', 'X-component', 'Y-component', 'non-living', 'non-renewable', 'carbon-13', 'carbon-14', 'sea-salt'
 
 # 4. Issues
 
@@ -61,7 +61,7 @@ Rules on capitalizing are a little unclear, but several sources recommend capita
 
 100m 10hPa 10m 1m 2000m 2m 300m 550nm 700m 865nm ... and others.
 
-A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach. Still leave a space if a unit is spelled out, as in "50 day".
+A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach. Still leave a space if a unit is spelled out, as in "50 day", "20 degree Celsius Isotherm" (degree is lower case as a unit).
 
 # Annex 1: word lists
 
@@ -114,7 +114,6 @@ The python package autocorrect is used, which has a list in autocorrect.word.KNO
 - Microzooplankton 
 - Needleleaf 
 - Picophytoplankton 
-- Seasalt 
 - Streamfunction 
 - Submesoscale 
 - Thermosteric 
