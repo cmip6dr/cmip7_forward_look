@@ -11,17 +11,20 @@ The long names should be capitalised as titles, following "standard" practise.
     
 See [this](https://english.stackexchange.com/questions/14/which-words-in-a-title-should-be-capitalized ) for more discussion. Note that some words, such as "as", "that" can take different roles depending on the structure of the sentence so it is not possible to automate everything easily. But, in the context of CMIP variables, there is a limited range of usages.
 
-The words "neither", "either" are conjunctions when used together with "nor", "or", but otherwise an adjective, pronoun or adverb (e.g. "Neither of the proposals is acceptable"). The usage in CMIP6 is always as a conjuunction.
+The words "neither", "either" are conjunctions when used together with "nor", "or", but otherwise an adjective, pronoun or adverb (e.g. "Neither of the proposals is acceptable"). The usage in CMIP6 is always as a conjunction. Some style guides suggest that "neither" should be capitalised because of its length, but here we opt to keep consistency across the pair "..neither .. nor ..", as in "Percentage of Grid Cell That Is Land but neither Vegetation Covered nor Bare Soil".
+
+"where" is used in phrases such as "Surface Temperature Where Land or Sea Ice", in which it is interpreted as a subordinating conjunction. The distinction between coordinating and subordinating conjunctions is unclear in the context of phrases which to not have a clear grammatical structure.
 
 In CMIP6, the following words are kept in lower case:
 1. a
 2. as at by in of on or to
 3. and any but for non nor not out per the
 4. into onto over than with
+5. either neither
 
 # 2. Special words
 
-Abbreviations and technical terms may have their own capitalisation rules. Exceptions are listed in Annex 1
+Abbreviations and technical terms may have their own capitalisation rules. Exceptions are listed in Annex 1.
 
 # 3. Hyphens
 
@@ -33,11 +36,11 @@ The following terms are always used as adjectives, and so consistently hyphenate
 Others may be used either with or without:
 "sea-surface", "cloud-top", "Grid-cell", "sea-ice", "land-ice"
 
-Some terms are intrinsically hyphenated:
-'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Snow-to-Ice', 'Vegetation-Covered', 'X-component', 'Y-component', 'non-living', 'non-renewable'
-
 Denoting interfaces:
 'ice-ocean', 'snow-ice'
+
+Other hyphenated terms:
+'2D-field', 'Aerosol-Free', 'Aqueous-phase', 'Eliassen-Palm', 'Gas-phase', 'Half-Levels', 'Layer-integrated', 'Near-surface', 'Non-orographic', 'Non-woody', 'Oxygen-17', 'Oxygen-18', 'Snow-to-Ice', 'X-component', 'Y-component', 'non-living', 'non-renewable', 'carbon-13', 'carbon-14'
 
 # 4. Issues
 
@@ -72,15 +75,14 @@ The python package autocorrect is used, which has a list in autocorrect.word.KNO
 
 - 4XCO2 
 - CWD
-- DMS
-- NMVOC
-- NPP
-- PAM
-- PBL
-- pH
-- PM1.0, PM2.5, PM10
-- TEM
-- TOA
+- DMS: dimethyl sulfide
+- NMVOC: non methane volatile organic compounds
+- NPP: Net primary production
+- PBL: Planetary boundary layer
+- pH: acidity
+- PM1.0, PM2.5, PM10: particulate matter of less than x micron radius
+- TEM: transformed Eulerian mean
+- TOA: top of atmosphere
 
 ### Instruments
 
@@ -116,5 +118,3 @@ The python package autocorrect is used, which has a list in autocorrect.word.KNO
 - Streamfunction 
 - Submesoscale 
 - Thermosteric 
-
-
