@@ -68,4 +68,35 @@ Rules on capitalizing are a little unclear, but several sources recommend capita
 
 10m 100m 300m 700m 2000m 10hPa 550nm and others ...
 
-A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach.
+A number of titles contain a number of terms with scientific units, e.g. "m", "hPa". These should be preceded by a space (see [NIST guide for use of SI units](https://physics.nist.gov/cuu/pdf/sp811.pdf), page vi. But [Cambridge University guide](https://www.cam.ac.uk/brand-resources/guidelines/editorial-style-guide) advises using no space, as in "10m". This looks better in phrases such as `Maximum Wind Speed of Gust at 10m`, so we follow the latter approach. Still leave a space if a unit is spelled out, as in "10 day".
+
+# Annex 1: word lists
+
+The python package autocorrect is used, which has a list in autocorrect.word.KNOWN_WORDS.
+
+## Names etc
+
+100m 10hPa 10m 13C 13CO2 14C 14CO2 17O 18O 1H 1m 2000m 2H 2m 300m 4XCO2 50 550nm 700m C2H2 C2H6 C3 C3H6 C3H8 C4 CALIPSO CFAD CFC11 CFC113 CFC12 CH3COCH3 CH4 CO CO2 CWD CloudSat D: DMS H2 HCFC22 HCl HNO3 HO2 ISCCP MISR MODIS N2 N2O NH3 NH4 NHx NMVOC NO NO2 NO3 NOx NOy NPP O O1d O2 O3 OH Ox PAN PARASOL PBL PCO2 PM1.0 PM10 PM2.5 PO2 SF6 SO2 SO4 T TEM TOA UGRID X XY Y pH
+
+## Technical words not recognised by autocorrect
+
+Dianeutral 
+ Diazotrophs 
+ Downwelling 
+ Eliassen
+ Epineutral 
+ Landuse 
+ Longwave 
+ Meltpond 
+ Mesozooplankton 
+ Methanogenesis 
+ Methanotrophy 
+ Microzooplankton 
+ Needleleaf 
+ Picophytoplankton 
+ Seasalt 
+ Streamfunction 
+ Submesoscale 
+ Thermosteric 
+ Vaisala 
+
