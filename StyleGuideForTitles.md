@@ -76,27 +76,39 @@ The python package autocorrect is used, which has a list in autocorrect.word.KNO
 
 ## Names etc
 
-100m 10hPa 10m 13C 13CO2 14C 14CO2 17O 18O 1H 1m 2000m 2H 2m 300m 4XCO2 50 550nm 700m C2H2 C2H6 C3 C3H6 C3H8 C4 CALIPSO CFAD CFC11 CFC113 CFC12 CH3COCH3 CH4 CO CO2 CWD CloudSat D: DMS H2 HCFC22 HCl HNO3 HO2 ISCCP MISR MODIS N2 N2O NH3 NH4 NHx NMVOC NO NO2 NO3 NOx NOy NPP O O1d O2 O3 OH Ox PAN PARASOL PBL PCO2 PM1.0 PM10 PM2.5 PO2 SF6 SO2 SO4 T TEM TOA UGRID X XY Y pH
+100m 10hPa 10m 13C 13CO2 14C 14CO2 17O 18O 1H 1m 2000m 2H 2m 300m 4XCO2 50 550nm 700m C2H2 C2H6 C3 C3H6 C3H8 C4 CALIPSO CFAD CFC11 CFC113 CFC12 CH3COCH3 CH4 CO CO2 CWD  D: DMS H2 HCFC22 HCl HNO3 HO2 N2 N2O NH3 NH4 NHx NMVOC NO NO2 NO3 NOx NOy NPP O O1d O2 O3 OH Ox PAN PBL PCO2 PM1.0 PM10 PM2.5 PO2 SF6 SO2 SO4 T TEM TOA UGRID X XY Y pH
+
+### Instruments
+
+- CloudSat
+- ISCCP
+- MISR
+- MODIS
+- PARASOL
+
+### Proper names
+
+- Eliassen
+- Vaisala 
 
 ## Technical words not recognised by autocorrect
 
-Dianeutral 
- Diazotrophs 
- Downwelling 
- Eliassen
- Epineutral 
- Landuse 
- Longwave 
- Meltpond 
- Mesozooplankton 
- Methanogenesis 
- Methanotrophy 
- Microzooplankton 
- Needleleaf 
- Picophytoplankton 
- Seasalt 
- Streamfunction 
- Submesoscale 
- Thermosteric 
- Vaisala 
+- Dianeutral 
+- Diazotrophs 
+- Downwelling 
+- Epineutral 
+- Landuse 
+- Longwave 
+- Meltpond 
+- Mesozooplankton 
+- Methanogenesis 
+- Methanotrophy 
+- Microzooplankton 
+- Needleleaf 
+- Picophytoplankton 
+- Seasalt 
+- Streamfunction 
+- Submesoscale 
+- Thermosteric 
+
 
